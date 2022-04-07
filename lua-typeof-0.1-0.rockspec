@@ -1,7 +1,7 @@
 package = "lua-typeof"
 version = "0.1-0"
 source = {
-   url = "git://github.com/iresty/lua-typeof",
+   url = "https://github.com/iresty/lua-typeof",
    tag = "v0.1"
 }
 description = {
